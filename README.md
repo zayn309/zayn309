@@ -31,12 +31,3 @@
 **ML / DL:** PyTorch · Hugging Face · YOLOv8 · scikit-learn · NEAT
 **LLMs & Agents:** LangGraph · LangChain · RAG · Chroma · sentence-transformers
 **Tools:** Git · Docker · GitHub Actions · Django · Jupyter
-
----
-
-### 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zayn309&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayn309&layout=compact&hide_border=true" alt="Top languages" />
-</p>
